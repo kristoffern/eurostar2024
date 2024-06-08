@@ -1,0 +1,3 @@
+[submodule "spacecats"]
+	path = spacecats
+	url = git@github.com:kristoffern/spacecats.git
